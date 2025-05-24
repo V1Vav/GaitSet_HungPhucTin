@@ -1,8 +1,13 @@
 Clone từ github GaitSet gốc https://github.com/AbnerHqC/GaitSet
 
-Có thể tự xử lý dữ liệu hoặc lấy dữ liệu đã xử lý của nhóm (resize 64x64) ở https://drive.google.com/file/d/1gaoHgTzDqA5eFWdsXG4vYE52zf6uYOEx/view?usp=sharing
-#1. train, test (model gốc) 
+
+Có thể tự xử lý dữ liệu hoặc lấy dữ liệu đã xử lý của nhóm (resize 64x64) ở 
+
+https://drive.google.com/file/d/1gaoHgTzDqA5eFWdsXG4vYE52zf6uYOEx/view?usp=sharing
+#1. train, test (model gốc)     
 Cần sửa trong file config
+
+
 dẫn work_path, dataset_path, lưu ý restore_inter rất hữu dụng khi train bằng colab (lưu 2 file encoder và optimizer để dùng).
 Vì repo cũng khá lâu nên các file triplet.py và dataloader.py cần phải chỉnh sửa đôi chút, Nhóm đã up triplet.py và dataloader.py mới, copy và sử dụng như bình thường ( quan tâm thay đổi thì kép xuống dưới cũng mỗi file, nhóm note lại những thay đổi).
 #2.max, mean, median,fuse
