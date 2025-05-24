@@ -30,3 +30,5 @@ linkdrive: https://drive.google.com/file/d/1WlEYUL0DpazD-DWFVzTvZUttEcjBFc3_/vie
 #4. Đưa các file notebook vào thư mục model vào main, folder 125 đưa vào thư mục chứa data đã xử lý.
 
 Nhóm đã hướng dẫn chạy từng bước sẵn trong file mỗi ipynb đính kèm
+
+Có khó khăn khi chạy code liên hệ mail: thanhtin35910@gmail.com  sđt: 0896223447 
